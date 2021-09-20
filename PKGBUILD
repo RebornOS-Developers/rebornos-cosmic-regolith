@@ -1,4 +1,5 @@
 # Maintainer: CookieSource <cookiesource@rebornos.org>
+# remontiore needs to be added to our repository
 pkgname=rebornos-cosmic-regolith
 pkgver=0.0
 pkgrel=0
