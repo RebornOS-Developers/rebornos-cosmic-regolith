@@ -9,5 +9,6 @@ arch=('any')
 license=('GPL2')
 depends=('remontoire-git' 'eog' 'file-roller' 'nautilus' 'gnome-disk-utility'
           'gnome-font-viewer' 'gnome-power-manager' 'gnome-screenshot'
-           'gnome-system-monitor' 'gnome-terminal' 
+           'gnome-system-monitor' 'gnome-terminal' 'regolith-desktop-config'
+           'regolith-i3' 'regolith-i3xrocks' 'regolith-styles' 'regolith-st'
 )
