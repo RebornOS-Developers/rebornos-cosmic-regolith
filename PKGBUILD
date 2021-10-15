@@ -2,7 +2,7 @@
 # remontoire-regolith package added.
 pkgname=rebornos-cosmic-regolith
 pkgver=0.2
-pkgrel=0
+pkgrel=1
 pkgdesc='Cosmic package for RebornOS Regolith'
 url='https://github.com/RebornOS-Developers/rebornos-cosmic-regolith'
 arch=('any')
@@ -11,4 +11,5 @@ depends=('remontoire-regolith' 'eog' 'file-roller' 'nautilus' 'gnome-disk-utilit
           'gnome-font-viewer' 'gnome-power-manager' 'gnome-screenshot'
            'gnome-system-monitor' 'gnome-terminal' 'regolith-desktop-config'
            'regolith-i3' 'regolith-i3xrocks' 'regolith-styles' 'regolith-st'
+           'vala'
 )
